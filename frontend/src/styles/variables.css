@@ -1,0 +1,98 @@
+:root {
+  /* =========================================
+     BRAND
+  ========================================= */
+
+  --color-primary: #970747;
+  --color-primary-hover: #7a0538;
+  --color-primary-active: #7a0538;
+
+  --color-primary-light: #f8eaf0;
+
+  --color-secondary: #997747;
+  --color-secondary-hover: #7f6239;
+
+  /* =========================================
+     BACKGROUNDS
+  ========================================= */
+
+  --bg-app: #f5f4f0;
+  --bg-card: #ffffff;
+  --bg-sidebar: #ffffff;
+
+  /* =========================================
+     TEXT
+  ========================================= */
+
+  --text-primary: #1c1917;
+  --text-secondary: #57534e;
+  --text-muted: #78716c;
+
+  --text-white: #ffffff;
+
+  /* =========================================
+     BORDERS
+  ========================================= */
+
+  --border-color: #e7e5e0;
+
+  /* =========================================
+     TABLE
+  ========================================= */
+
+  --table-header-bg: #1c1917;
+  --table-header-text: #ffffff;
+
+  --table-row-alt: #faf9f7;
+  --table-row-hover: #f8f0f3;
+
+  /* =========================================
+     STATUS
+  ========================================= */
+
+  --color-success: #166534;
+  --color-success-light: #dcfce7;
+
+  --color-warning: #92400e;
+  --color-warning-light: #fef3c7;
+
+  --color-danger: #991b1b;
+  --color-danger-light: #fee2e2;
+
+  --color-info: #075985;
+  --color-info-light: #e0f2fe;
+
+  /* =========================================
+     LAYOUT
+  ========================================= */
+
+  --sidebar-width: 250px;
+  --navbar-height: 68px;
+
+  /* =========================================
+     RADIUS
+  ========================================= */
+
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  /* =========================================
+     SHADOWS
+  ========================================= */
+
+  --shadow-sm:
+    0 2px 8px rgba(28, 25, 23, 0.05);
+
+  --shadow-card:
+    0 6px 20px rgba(28, 25, 23, 0.06);
+
+  --shadow-hover:
+    0 12px 30px rgba(28, 25, 23, 0.10);
+
+  /* =========================================
+     TRANSITION
+  ========================================= */
+
+  --transition: all 0.2s ease;
+}
